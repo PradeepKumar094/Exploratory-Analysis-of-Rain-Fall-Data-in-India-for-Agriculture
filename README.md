@@ -268,7 +268,7 @@ A complete video demonstration is available in the `video-demo/` folder, showcas
 - Feature highlights
 - Use case scenarios
 
-**Watch the demo**: [video-demo/demo.mp4](video-demo/demo.mp4)
+**Watch the demo**: [video-demo/demo link](video-demo/demo link(drive link))
 
 ## 🤝 Contributing
 
@@ -327,7 +327,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/YOUR_USERNAME)
+- **Pradeep Kumar**
 
 ## 🙏 Acknowledgments
 
@@ -338,11 +338,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name
+**Project Maintainer**: Pradeep Kumar
 
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: durgaramasatya90@gmail.com
 
 ## 🌟 Support
 
@@ -357,4 +355,5 @@ If you find this project helpful, please consider:
 **Made with ❤️ for Indian Agriculture**
 
 *Empowering farmers with data-driven decisions*
+
 
