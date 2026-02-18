@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Prediction System for Indian Agriculture
+# 🌧️ Exploratory Analysis of Rain Fall Data in India for Agriculture
 
 A machine learning-powered web application that predicts rainfall patterns to support agricultural decision-making in India. This system helps farmers and agricultural planners make informed decisions about crop planning, irrigation management, and harvesting schedules.
 
@@ -357,3 +357,4 @@ If you find this project helpful, please consider:
 **Made with ❤️ for Indian Agriculture**
 
 *Empowering farmers with data-driven decisions*
+
